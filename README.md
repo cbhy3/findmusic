@@ -1,9 +1,6 @@
-this shit dont work no more cloudflare got too good and im hella lazy so dont bother 
+this dont work no more cloudflare got too good and im hella lazy so dont bother 
 
-find new music type shit  
+find new music
 webscraping albumoftheyear.com  
-
-
-findmusictypeshit.onrender.com  
 
 
